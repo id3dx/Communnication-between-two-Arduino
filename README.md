@@ -1,7 +1,8 @@
 # Communnication-between-two-Arduino
 This task is a communitation between two arduinos to turn on the LED using a push button by tinkercad.
 
-![Copy of Serial Communication between two Arduino](https://github.com/id3dx/Communnication-between-two-Arduino/assets/138385070/c37b588f-a6ac-42c3-b157-232c4b79baa3)
+
+<img width="757" alt="Screenshot 2023-08-04 194208" src="https://github.com/id3dx/Communnication-between-two-Arduino/assets/138385070/a7f59a79-70b0-40b6-a89c-34ada668c347">
 
 
 <img width="595" alt="Screenshot 2023-08-04 195140" src="https://github.com/id3dx/Communnication-between-two-Arduino/assets/138385070/ff2b9e88-a74a-454d-8ef6-fbde8b2f8863">
